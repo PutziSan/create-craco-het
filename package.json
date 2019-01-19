@@ -1,0 +1,16 @@
+{
+  "name": "create-craco-het",
+  "version": "0.0.0",
+  "description": "Create an app with craco and Hot-reloading, css-emotion and Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/PutziSan/create-craco-het.git",
+  "author": "PS",
+  "license": "MIT",
+  "bin": "./index.js",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}
