@@ -1,6 +1,6 @@
 {
   "name": "create-craco-het",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Create an app with craco and Hot-reloading, css-emotion and Typescript",
   "main": "index.js",
   "repository": "https://github.com/PutziSan/create-craco-het.git",
