@@ -2,12 +2,14 @@
 
 [Create React App](https://github.com/facebook/create-react-app), configured via [craco](https://github.com/sharegate/craco), with **H**ot-Module-Replacement, **E**motion-css-prop and **T**ypeScript-support.
 
-## usage
+## get started
 
 ```bash
 mkdir your-project
 cd your-project
 yarn create craco-het
+yarn install
+yarn start
 ```
 
 ## details
